@@ -23,7 +23,7 @@ This project is an image classifier based on EfficientNet-B0, built with PyTorch
 1. Clone the repository:
 ```bash
 git clone https://github.com/Culetter/image-classification.git
-cd image-classification
+cd image-classification/src
 ```
 2. Install the dependencies
 ```
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 # Usage
 To train the model and run predictions:
 ```
-python src/train_model.py
+python train_model.py
 ```
 # Model
 * Backbone: EfficientNet-B0
