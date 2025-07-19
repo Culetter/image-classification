@@ -16,6 +16,7 @@ This project is an image classifier based on EfficientNet-B0, built with PyTorch
 │   ├── plots/                  # Saved plots
 │   └── predicted_img/          # Classified images copied into folders by predicted class
 ├── /src
+│   ├── requirements.txt/       # Required Libraries
 │   └── train_model.py          # Main training, evaluation, and prediction script
 ```
 
