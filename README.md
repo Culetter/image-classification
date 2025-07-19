@@ -45,7 +45,8 @@ After training, the script automatically:
 * Classifies all images in ```.../data/seg_pred/```
 * Copies them into folders named after the predicted class in ```../results/predicted_img/```
 # Author
-@Culetter
+**Nazarii Lozynskyi**  
+[@Culetter](https://github.com/Culetter)
 # License
 The dataset used in this project is the "Intel Image Classification" dataset, available on Kaggle:  
 https://www.kaggle.com/datasets/puneet6060/intel-image-classification
